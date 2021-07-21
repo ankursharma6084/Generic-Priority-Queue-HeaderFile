@@ -7,7 +7,7 @@
 
  To implement just simply declare or use
 
-  Heap<type> h(comparator)  
+  Heap<user_defined_type> h(comparator)  
 
   Decleare like
 
