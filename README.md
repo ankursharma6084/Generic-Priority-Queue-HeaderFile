@@ -11,8 +11,12 @@
 
   Decleare like
 
-  bool compare(T x,T y){ return x<y; }
-  Heap<int> priority_q(compare);
+  bool compare(T x,T y){ 
+  return x<y;
+  }
+  
+  
+  Heap<T> priority_q(compare);
 
 
   All popular Heap Functions suppoerted
